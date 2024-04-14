@@ -217,7 +217,7 @@ html,body{
     overflow: auto;
     margin-top: 40px;
     padding: 0 20px;
-    background-color: aqua;
+    /* background-color: aqua; */
 }
 #card::-webkit-scrollbar{
     display: none;
